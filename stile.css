@@ -1,0 +1,92 @@
+body
+{
+    background-image:url('background.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+.container
+{
+    background:rgba(0, 0, 0, 0.5);
+    width:1200px;
+    height:850px;
+    margin:auto;
+    border-radius:20px;
+    margin-top:30px;
+}
+
+.logo
+{
+    width:20%;
+    height:20%;
+    display:block;
+    margin:auto;
+    padding-top:70px;
+}
+
+.titolo
+{
+    color:lime;
+    text-align:center;
+    font-family:arial;
+}
+
+.barra
+{
+    background-color:lime;
+    width:80%;
+    text-align:center;
+    margin:auto;
+    height:50px;
+    line-height:50px;
+}
+
+.principale
+{
+    padding-left:55px;
+}
+
+.monopattini
+{
+    margin-top:30px;
+}
+
+.nomi
+{
+    color:white;
+    font-size:22px;
+    font-weight:bold;
+    font-family:arial;
+}
+
+.descrizioni
+{
+    line-height:0.6;
+    color:white;
+    font-family:arial;
+}
+
+.cariche
+{
+    height:30px;
+    border-radius:5px;
+}
+
+#carica1
+{
+    background-color:#fad232;
+    width:300px;
+}
+
+#carica2
+{
+    background-color:#0eb525;
+    width:600px;
+}
+
+#carica3
+{
+    background-color:#b01e25;
+    width:130px;
+}
